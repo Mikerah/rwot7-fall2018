@@ -27,10 +27,11 @@ More complete examples
 ## How does a Digital Credential Wallet differ from a Cryptocurrency Wallet? 
 Currently, when one hears the term wallet, one thinks of a cryptocurrency wallet due to the current mainstream attention of cryptocurrencies. Roughly, cryptocurrency wallets are used to store tokens or coins and digital credential wallets are used to store digital credentials. The purpose of this section is to distinguish between what is meant by a digital credential wallet and a cryptocurrency wallet. In outlining the similarities and differences between digital credential wallets and cryptocurrency wallets, we will arrive at constructive definitions of both types of wallets and in particular with regards to digital credential wallets, will complement the definition given in the previous section. 
 
-Similarities 
+### Similarities
+
 The main similarities between digital credential wallets and cryptocurrency wallets are that they can be mobile, desktop and web applications and hardware devices, and  can store multiple addresses/credentials. Both wallets can be implemented as software applications or hardware devices. Software implementation of these wallets are mobile phone applications, desktop applications or web applications. The choice of software manifestation of these wallets give users a choice as to how much they want to control the information stored in these wallets. For example, with web applications wallets, most of them in use don’t give the user of their wallet control over the private/public keys that are associated with the wallet whereas with a desktop application wallet, the user will have full control over the private/public keys associated with the wallet. In the case of hardware wallets, the user has complete control over the private/public keys and have the option to store these completely offline. The issue of key management of cryptocurrency wallets is outside the scope of this paper and with regards to digital credential wallets, will be addressed in a later section of this paper. 
 
-Differences
+### Differences
 
 Both types of wallets require at least 2 parties in order to start and complete an interaction.  Generally, with cryptocurrency wallets, they are programmed to only handle 2 party interactions and not multiple party interaction. However, multi-signature wallets are used to require multiple signatures from different parties in order to authorize a transaction.
 
@@ -77,23 +78,23 @@ The wallet needs to hold different kinds of credentials from different entities:
 
 ### Request professional service
 - Request for Graphic Design
-- - Preconditions:
-- - - Unknown Creative
-- - - Unknown Client
-- - - Creative has portfolio
-- - - Client has examples
-- - - Old versions
-- - - Likes
-- - - Dislikes
-- - - Creative has bearer references behind portfolio items
-- - Client validates Creative references
-- - References respond
-- - Scope of Work agreed by Client & Creative
-- - Creative does iteration
-- - Client provides feedback
-- - Milestones approved by client
-- - Deliverable approved
-- - Both Creative & Client issue references
+  - Preconditions:
+    - Unknown Creative
+    - Unknown Client
+    - Creative has portfolio
+    - Client has examples
+    - Old versions
+    - Likes
+    - Dislikes
+    - Creative has bearer references behind portfolio items
+  - Client validates Creative references
+  - References respond
+  - Scope of Work agreed by Client & Creative
+  - Creative does iteration
+  - Client provides feedback
+  - Milestones approved by client
+  - Deliverable approved
+  - Both Creative & Client issue references
 
 
 ## Wallet Key Management
